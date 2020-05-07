@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 background='#2a2139'
-inactiveBackground='#000c1d'
+inactiveBackground='#241b2f'
 foreground='#d6deeb'
 cursor='#7e57c2'
 color5='#f92aad'
