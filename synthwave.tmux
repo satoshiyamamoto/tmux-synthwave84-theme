@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-background='#2a2139'
+background='#262335'
 inactiveBackground='#241b2f'
 foreground='#d6deeb'
 cursor='#7e57c2'
