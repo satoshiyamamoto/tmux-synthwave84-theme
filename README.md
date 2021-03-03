@@ -1,1 +1,1 @@
-# tmux-synthwave-theme
+# tmux-synthwave84-theme
