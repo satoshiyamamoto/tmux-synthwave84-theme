@@ -45,6 +45,6 @@ tmux set-option -g status-left-attr "none"
 tmux set-option -g status-left-length "100"
 tmux set-option -g status-right-attr "none"
 tmux set-option -g status-right-length "100"
-tmux set-option -g status-left "#[fg=${color8}] #S"
+tmux set-option -g status-left "#[fg=${color8}] #S      "
 
 # vim: set ft=bash
